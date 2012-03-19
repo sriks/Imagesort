@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Imagesort/MainPage.qml</file>
+        <file>qml/Imagesort/main.qml</file>
+        <file>qml/Imagesort/Constants.js</file>
+        <file>images/rgb.jpg</file>
+    </qresource>
+</RCC>
