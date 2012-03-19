@@ -12,7 +12,7 @@
 #include "ImageProvider.h"
 #include "QSort.h"
 #include "QuickSort.h"
-//#define DEBUG_SAVE_IMAGES
+#define DEBUG_SAVE_IMAGES
 
 const int ROWS = 3;
 const int COLUMNS = 4;
